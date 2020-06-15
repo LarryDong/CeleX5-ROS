@@ -1,3 +1,15 @@
+Forked from 薛轲翰。膜拜一下。
+
+自己安装过程中遇到的问题：
+1. git clone 或者 加载子模块时，如果网络不好，或出现错误。多次尝试即可；
+2. 需要安装pcl, camera-info-manager：
+```bash 
+sudo apt install libpcl-dev
+sudo apt install ros-melodic-camera-info-manager
+```
+
+
+
 *[中文版本](README_zh.md)*
 
 # CeleX5-ROS
